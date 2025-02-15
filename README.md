@@ -13,6 +13,9 @@ This is a remake version of the classic 2048 puzzle game. The objective of the g
 - High score tracking
 - Mobile-friendly design
 
+## Try it on the Web
+Try it out here: https://2048game-arunsagar.netlify.app
+
 ## Prerequisites
 Before you begin, ensure you have met the following requirements:
 - Node.js installed on your machine
