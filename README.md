@@ -51,10 +51,9 @@ Contributions are welcome! Please follow these steps to contribute:
 4. Push to the branch (`git push origin feature/YourFeature`).
 5. Open a pull request.
 
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
-
-## Contact
-If you have any questions or suggestions, feel free to contact the project maintainer at [your-email@example.com].
+## Images
+![{5EE814CF-404C-4A3C-9A26-3C211F11D3FC}](https://github.com/user-attachments/assets/0179ab8f-2892-4342-b9b7-c70960a90710)
+![{5AEE6BCC-4A03-4DDF-9B18-6D30F7CB650E}](https://github.com/user-attachments/assets/7cf71242-9774-4953-893b-016a7ea29ad5)
+![{61F4AA5F-D3C3-4CEF-BD41-C66323FB80E9}](https://github.com/user-attachments/assets/a312fc08-af34-40fc-a41d-b58fc321dbcd)
 
 Enjoy playing 2048!
