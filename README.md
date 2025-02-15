@@ -1,6 +1,3 @@
-# Bolt 2048 Updated
-
-## Project Description
 # 2048
 
 ## Project Description
